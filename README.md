@@ -30,7 +30,7 @@ the layout for each website? What are things web developers have to cater to tha
 a pause function that would freeze the remaining time during each cycle of showing the hints, for reasoning of balance and for the player to be
 tested on the memorization part, not how fast they can click the buttons. I would have also spent time refactoring the functions that focused
 on the playing of the sequences, by not allowing the user to click the buttons while the sequence is playing. This was a problem I encountered
-with play testing in which the player could technically cheat or accidently click while trying to go fast and beat the clock.]\
+with play testing in which the player could technically cheat or accidently click while trying to go fast and beat the clock.]
 
 <img src="https://cdn.glitch.com/544ada7a-657a-4668-851f-9cd393da40b9%2FgameWalkthrough.gif?v=1614393207642" width=1000><br>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
