@@ -1,10 +1,12 @@
 SITE Pre-Work Submission
 Name: Matthew Nguyen
 
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+ 
 [Used external website w3schools.com to figure out how to implement the progress/time bar.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
+
 [I ran into problems regarding the balancing of the game between how many sequences total to memorize, how much time you're given, and how 
 many buttons there should be given the amount of time I gave the user to play. I had to balance between all three aspects to create a game
 that was reasonable enough but also strenuous for the player so that they were challenged. To balance the game between all three factors I asked my
@@ -15,6 +17,7 @@ usual and decreased the pause time between each hint. However, I believe the bet
 would be playing on the screen, so that the user would be tested solely on their memorization, and not the game time.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 [I want to know the process of testing in web development. Specfically for this case I understand that testing would be more thorough and 
 strenuous because games have factors of playability, difficulty, and enjoyability to balance, but in the case of general web development, do
 what are the bullet points each developer goes through for testing? Also, this project was very simple in terms of layout, there were no
@@ -22,6 +25,7 @@ specifications regarding to any consumer or supervisor. I am curious about what 
 the layout for each website? What are things web developers have to cater to that restrain them for freedom of deciding the layout.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 [I want to of course, spruce up the design and looks of the game. Other than that though in terms of functionalities, I would definitely introduce
 a pause function that would freeze the remaining time during each cycle of showing the hints, for reasoning of balance and for the player to be
 tested on the memorization part, not how fast they can click the buttons. I would have also spent time refactoring the functions that focused
